@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- spring boot基本环境 -->
     <!-- spring four people -->
-    <!-- 2017.6.7 gaokao  mobai xiaohuang danche mianfei -->
+    <!-- 2017.6.7 gaokao  mobai xiaohuang danche mianfei   what? go -->
 	<parent>
        <groupId>org.springframework.boot</groupId>
        <artifactId>spring-boot-starter-parent</artifactId>
