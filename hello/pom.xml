@@ -57,7 +57,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency> -->
-        
+        <!-- daociiou -->
         <!-- <dependency>
 　　　			<groupId>org.springframework.cloud</groupId>
 　　　　		<artifactId>spring-cloud-starter-eureka</artifactId>
@@ -77,4 +77,5 @@
             </plugin>
         </plugins>
     </build>
+    <!-- merge -->
 </project>
