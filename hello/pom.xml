@@ -43,4 +43,19 @@
     </build>
     <!-- merge xujintao-->
     <!-- merge branch-->
+    
+    <distributionManagement>
+        <repository>
+            <id>releases</id>
+            <name>发布版本仓库</name>
+            <url>http://172.20.10.7:8081/nexus/content/repositories/releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>快照版本仓库</name>
+            <url>http://172.20.10.7:8081/nexus/content/repositories/snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
+    
+    
 </project>
