@@ -21,7 +21,7 @@ public class HelloController {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-        return "Hello World!" + " "+hello;
+        return "Hello World!" + " "+hello + " from github by jenkins!";
     }
 
     public static void main(String[] args) throws Exception {
