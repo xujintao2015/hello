@@ -21,7 +21,7 @@ public class HelloController {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-        return "Hello World!" + " "+hello + " from github by jenkins! auto update !";
+        return "Hello World!" + " "+hello + " from github by jenkins! auto update ! token !!!";
     }
 
     public static void main(String[] args) throws Exception {
